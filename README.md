@@ -1,12 +1,14 @@
 # CryQTBrowser
 Minimalistic and customizable web browser for linux.
 
-Install -
+# Install
 
-cd ~
+1. Install python3 and python-pip from your package manager
 
-git clone https://github.com/kandase-reposity/cryqtbrowser/
+2. SH
 
-cd cryqtbrowser
+pip install pyside6 --break-system-packages|cd ~|git clone https://github.com/kandase-reposity/cryqtbrowser/|cd cryqtbrowser|chmod +x cryqtbrowser
 
-chmod +x cryqtbrowser
+# Windows support -
+
+soon..
